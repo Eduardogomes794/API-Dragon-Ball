@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API de Dragon Ball</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Exibição de Personagem</h1>
+  <div id="personagem-selection">
+    <label for="personagem">Escolha um personagem:</label>
+    <select id="personagem">
+      <option value="1">Personagem 1</option> <!-- Goku -->
+      <option value="2">Personagem 2</option> <!-- Vegeta -->
+      <option value="10">Personagem 3</option> <!-- Gohan -->
+      <option value="9">Personagem 4</option> <!-- Cell -->
+      <option value="5">Personagem 5</option> <!-- Freeza -->
+      <option value="38">Personagem 6</option> <!-- Jiren -->
+      <option value="39">Personagem 7</option> <!-- Toppo -->
+      <option value="65">Personagem 8</option> <!-- Gogeta -->
+      <option value="66">Personagem 9</option> <!-- Vegetto -->
+      <option value="35">Personagem 10</option> <!-- Zeno -->
+    </select>
+    <button id="exibir">Exibir Personagem</button>
+  </div>
+  
+  <div id="dados">
+    <h2>Informações do Personagem</h2>
+    <div id="character-image"></div> <!-- Aqui vai a imagem do personagem -->
+    <div id="name"></div>
+    <div id="race"></div>
+    <div id="power"></div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
