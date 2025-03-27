@@ -1,12 +1,12 @@
 <h1 align="center"> API de Dragon Ball </h1>
 
-:newspaper: ## Descrição
+:newspaper: Descrição
 
 Este projeto consiste em uma API desenvolvida com **Node.js** e **Express** para se conectar com a **Dragon Ball API** (disponível em [DragonBall API](https://web.dragonball-api.com/)). A API oferece informações sobre personagens do universo Dragon Ball.
 
 ---
 
-:mag_right: ## Tecnologias Usadas
+:mag_right: Tecnologias Usadas
 
 - **Node.js**: Ambiente de execução JavaScript no servidor.
 - **Express**: Framework minimalista e flexível para construção de APIs em Node.js.
@@ -14,7 +14,7 @@ Este projeto consiste em uma API desenvolvida com **Node.js** e **Express** para
 
 ---
 
-:heavy_exclamation_mark: ## Como Usar
+:heavy_exclamation_mark: Como Usar
 
 ### 1. Clone o repositório
 
