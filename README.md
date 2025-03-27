@@ -1,6 +1,24 @@
-# API-Dragon-Ball
-API usando o express para conectar na API de Dragon Ball(https://web.dragonball-api.com/), mostrando informações de alguns personagens
+<h1 align="center"> API de Dragon Ball </h1>
 
-Esta API utiliza de [Node.js] usando o express para se conectar com a API de Dragon Ball, exibindo informações sobre alguns personagens selecionados, seguem os passos para utilização:
+## Descrição
 
-Após baixar os arquivos, abra o terminal e entre na pasta onde os arquivos estão, dentro da pasta use o comando (npm install express axios) para que assim você possa usar o comando (node "nome do arquivo principal".js), depois entre em seu navegador de preferência e na barra de pesquisa digite: (http://localhost:3000/), assim você já poderá utilizar da API
+Este projeto consiste em uma API desenvolvida com **Node.js** e **Express** para se conectar com a **Dragon Ball API** (disponível em [DragonBall API](https://web.dragonball-api.com/)). A API oferece informações sobre personagens do universo Dragon Ball.
+
+---
+
+## Tecnologias Usadas
+
+- **Node.js**: Ambiente de execução JavaScript no servidor.
+- **Express**: Framework minimalista e flexível para construção de APIs em Node.js.
+- **Axios**: Biblioteca para fazer requisições HTTP.
+
+---
+
+## Como Usar
+
+### 1. Clone o repositório
+
+Faça o download ou clone o repositório usando o comando:
+
+```bash
+git clone https://github.com/Eduardogomes794/API-Dragon-Ball.git
